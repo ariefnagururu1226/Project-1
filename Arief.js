@@ -1,2 +1,2 @@
-console.log("Ar")
+console.log("Ari")
 console.log("Arief")
